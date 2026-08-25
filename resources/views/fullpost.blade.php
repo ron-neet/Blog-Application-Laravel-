@@ -20,6 +20,7 @@
                     <a href="">Blog</a>
                     <a href="">About</a>
                     <a href="">Contact</a>
+                    <a href="">Privacy Policy</a>
                     @if (Route::has('login'))
                         @auth
                             <a href="{{route('dashboard')}}"
