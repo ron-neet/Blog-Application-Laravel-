@@ -14,7 +14,7 @@
     <header>
         <div class="container">
             <nav class="navbar">
-                <a href="/" class="logo">Lara<span>Blog</span></a>
+                <a href="/" class="logo">Lara<span>Blog</span> CI/CD</a>
                 <div class="nav-links">
                     <a href="{{route('home')}}" class="active">Home</a>
                     <a href="">Blog</a>
